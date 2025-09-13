@@ -1,93 +1,96 @@
-h1,h2, h3 {
-    text-align: center;
+h1,
+h2,
+h3 {
+  text-align: center;
 }
 
 h4 {
-    margin: 5px 0;
+  margin: 5px 0;
 }
 
 h5 {
-    display: inline;
+  display: inline;
 }
 
 .ramen {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: peachpuff;
-    padding-top: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: peachpuff;
+  padding-top: 5px;
 }
 
 .ramen-img {
-  width:700px;
+  width: 700px;
   display: block;
   margin: auto;
 }
 
-.ramen-ing, .ramen-prep {
-    display: inline-block;
-    /* border: 2px solid black; */
-    margin: auto;
+.ramen-ing,
+.ramen-prep {
+  display: inline-block;
+  /* border: 2px solid black; */
+  margin: auto;
 }
 
-.ramen-ing{
-    /* padding-right: 150px;  padding is always static, doesn't actually give you more space*/
-    /* width: 25%; */
-    /* margin-left: 150px; */
-    margin-right: 150px; 
+.ramen-ing {
+  /* padding-right: 150px;  padding is always static, doesn't actually give you more space*/
+  /* width: 25%; */
+  /* margin-left: 150px; */
+  margin-right: 150px;
 }
-
 
 .bibimbap-img {
-    /* float: left; */
-    display: inline-block;
+  /* float: left; */
+  display: inline-block;
 }
 .bibimbap-img2 {
-    max-height: 700px;
-    width:49%;
-    display: inline-block;
+  max-height: 700px;
+  width: 49%;
+  display: inline-block;
 }
 
 #bibimbap-box {
-    vertical-align: top;
-    width: 49%;
-    /* border: 2px solid black; */
-    display: inline-block;
+  vertical-align: top;
+  width: 49%;
+  /* border: 2px solid black; */
+  display: inline-block;
 }
 
 .bibimbap {
-    background-color: aquamarine;
-    padding-bottom: 10px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: aquamarine;
+  padding-bottom: 10px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
-
 
 .gyoza-img {
-    width:50%;
-    display: block;
-    margin: auto;
+  width: 50%;
+  display: block;
+  margin: auto;
 }
 
-.picture-link{
-    display: block;
+.picture-link {
+  display: block;
 }
 
 .small {
-    width:auto;
-    height: 200px;
-    /* display: inline-block; */
+  width: auto;
+  height: 200px;
+  /* display: inline-block; */
 }
 
-.pie, .buns {
-     display: inline-block;
-    /* border: 2px solid black; */
-    margin: auto;
+.pie,
+.buns {
+  display: inline-block;
+  /* border: 2px solid black; */
+  margin: auto;
 }
 
 .gyoza {
-    background-color: lightblue;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 15px;
+  background-color: lightblue;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 15px;
 }
 
 .fact {
-    border: 2px solid black;
+  border: 2px solid black;
 }
