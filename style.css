@@ -94,3 +94,11 @@ h5 {
 .fact {
   border: 2px solid black;
 }
+
+footer {
+  text-align: center;
+}
+
+a {
+  color: black;
+}
