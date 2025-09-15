@@ -28,7 +28,7 @@ h5 {
 .ramen-prep {
   display: inline-block;
   /* border: 2px solid black; */
-  margin: auto;
+  /* margin: auto; */
 }
 
 .ramen-ing {
@@ -82,7 +82,7 @@ h5 {
 .buns {
   display: inline-block;
   /* border: 2px solid black; */
-  margin: auto;
+  /* margin: auto; */
 }
 
 .gyoza {
