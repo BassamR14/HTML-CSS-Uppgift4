@@ -116,3 +116,10 @@ a {
 .image img {
   width: 100%;
 }
+
+.text {
+  display: inline-block;
+  width: 25%;
+  border: 2px solid purple;
+  vertical-align: top;
+}
