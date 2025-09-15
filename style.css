@@ -103,3 +103,16 @@ footer {
 a {
   color: black;
 }
+
+/* When controling div width, it automatically controls text, but not images since they have their own dimensions, so you must change the width of the image */
+
+.image {
+  display: inline-block;
+  /* margin: auto; */
+  width: 25%;
+  border: 2px solid blue;
+}
+
+.image img {
+  width: 100%;
+}
