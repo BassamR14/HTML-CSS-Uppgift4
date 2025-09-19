@@ -32,9 +32,14 @@ h5 {
 
 .ramen-ing {
   /* padding-right: 150px;  padding is always static, doesn't actually give you more space*/
-  /* width: 25%; */
+  width: 24%;
   /* margin-left: 150px; */
-  margin-right: 150px;
+  /* margin-right: 150px; */
+  vertical-align: top;
+}
+
+.ramen-prep {
+  width: 75%;
 }
 
 .bibimbap {
@@ -144,9 +149,9 @@ html {
   justify-content: space-between;
   align-items: center;
   height: 3100px;
-  /* width: 1000px;
-  margin-left: auto;
-  margin-right: auto; */
+  /* width: 1000px; */
+  /* margin-left: auto; */
+  /* margin-right: auto;  */
 }
 
 .ramen,
