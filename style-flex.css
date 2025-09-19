@@ -148,7 +148,7 @@ html {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  height: 3100px;
+  /* height: 3100px; */
   /* width: 1000px; */
   /* margin-left: auto; */
   /* margin-right: auto;  */
@@ -162,6 +162,7 @@ html {
   transition: 0.3s;
   background-color: FFFFFF;
   border: 1px solid beige;
+  margin: 10px 0;
 }
 
 .ramen:hover,
